@@ -117,4 +117,9 @@
       padding:10px 2px 2px 1px;
       box-sizing:content-box;
   }
-  
+  #me p{
+    width:75%;
+    position:relative;
+    left:15%;
+    font-family: Arial; 
+    padding-right: 10px;  
