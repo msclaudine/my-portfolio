@@ -89,9 +89,7 @@
 #main{
   height:1000px;
   background-color:cadetblue;
-  background-image: url(image/download.jpeg);
-  background-repeat:no-repeat;
-  background-size: cover;
+ 
   }
   
   /*image styling*/
