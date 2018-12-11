@@ -7,6 +7,7 @@ SSETUP
 If you would like a local copy of this website, make sure you have git installed then run:
 
 $ git clone https://github.com/msclaudine/my-portfolio.git
+you can browse it from: https://msclaudine.github.io/my-portfolio/
 
 DEVELOPED BY USE OF 
 
